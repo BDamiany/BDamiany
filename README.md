@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Brenno Damiany, tenho 20 anos e sou natural de Fortaleza, Ceará. Atualmente, curso Ciência da Computação na Universidade de Fortaleza (UNIFOR). Estou em fase de aprendizado e desenvolvimento técnico, adquirindo conhecimentos em programação, lógica computacional, algoritmos e conceitos fundamentais da computação por meio da graduação e estudos individuais. Este perfil tem como objetivo acompanhar minha evolução acadêmica e profissional, servindo como espaço para futuros projetos, estudos e experimentos à medida que avanço na área de tecnologia.
+Me chamo Brenno Damiany, tenho 21 anos e sou natural de Fortaleza, Ceará. Atualmente, curso Ciência da Computação na Universidade de Fortaleza (UNIFOR). Estou em fase de aprendizado e desenvolvimento técnico, adquirindo conhecimentos em programação, lógica computacional, algoritmos e conceitos fundamentais da computação por meio da graduação e estudos individuais. Este perfil tem como objetivo acompanhar minha evolução acadêmica e profissional, servindo como espaço para futuros projetos, estudos e experimentos à medida que avanço na área de tecnologia.
 
 
 ## 🌐 Socials:
