@@ -1,8 +1,15 @@
 # 👨‍💻 Brenno Damiany
 
-**`Profissional de TI | Desenvolvimento de Software | Cibersegurança`**
+**`Profissional de TI`**
 
-Me chamo Brenno Damiany, tenho 21 anos e sou natural de Fortaleza, Ceará. Atualmente, curso Ciência da Computação na Universidade de Fortaleza (UNIFOR). Estou em fase de aprendizado e desenvolvimento técnico, adquirindo conhecimentos em programação, lógica computacional, algoritmos e conceitos fundamentais da computação por meio da graduação e estudos individuais. Este perfil tem como objetivo acompanhar minha evolução acadêmica e profissional, servindo como espaço para futuros projetos, estudos e experimentos à medida que avanço na área de tecnologia.
+Me chamo **Brenno Damiany**, profissional de Tecnologia da Informação com foco em **Desenvolvimento de Software e Cibersegurança**.
+
+Tenho conhecimentos em **Java, Python, JavaScript, SQL, APIs, bancos de dados, Inteligência Artificial e Segurança da Informação**, com experiência em **análise de registros, investigação de eventos e desenvolvimento de soluções tecnológicas**.
+
+Utilizo este espaço para compartilhar **projetos, estudos e experimentos**, documentando minha evolução e explorando diferentes tecnologias.
+
+🔐 **Áreas de interesse:** Desenvolvimento de Software • Cibersegurança • Dados e Inteligência Artificial
+
 
 
 ## 🌐 Socials:
