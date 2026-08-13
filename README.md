@@ -8,7 +8,7 @@ Tenho conhecimentos em **Java, Python, JavaScript, SQL, APIs, bancos de dados, I
 
 Utilizo este espaço para compartilhar **projetos, estudos e experimentos**, documentando minha evolução e explorando diferentes tecnologias.
 
-🔐 **Áreas de interesse:** Desenvolvimento de Software • Cibersegurança • Dados e Inteligência Artificial
+
 
 
 
