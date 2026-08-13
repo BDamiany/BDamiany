@@ -4,7 +4,7 @@
 
 Me chamo **Brenno Damiany**, profissional de Tecnologia da Informação com foco em **Desenvolvimento de Software e Cibersegurança**.
 
-Tenho conhecimentos em **Java, Python, JavaScript, SQL, APIs, bancos de dados, Inteligência Artificial e Segurança da Informação**, com experiência em **análise de registros, investigação de eventos e desenvolvimento de soluções tecnológicas**.
+Tenho conhecimentos em **Java, Python, JavaScript, SQL, APIs, bancos de dados, Inteligência Artificial e Segurança da Informação**, **análise de registros, investigação de eventos e desenvolvimento de soluções tecnológicas**.
 
 Utilizo este espaço para compartilhar **projetos, estudos e experimentos**, documentando minha evolução e explorando diferentes tecnologias.
 
